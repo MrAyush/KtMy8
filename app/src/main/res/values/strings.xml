@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KtMy8</string>
+    <string-array name="choice">
+        <item>Income</item>
+        <item>Expense</item>
+    </string-array>
+</resources>
